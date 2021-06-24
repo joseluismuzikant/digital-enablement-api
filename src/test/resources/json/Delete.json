@@ -1,0 +1,13 @@
+{
+  "responseHost" : "site2.your-server.com",
+  "requestId" : "123456",
+  "paymentAppInstanceId" : "123456789",
+  "tokenUniqueReferences" : [
+    "DWSPMC000000000132d72d4fcb2f4136a0532d3093ff1a45",
+    "DWSPMC00000000032d72d4ffcb2f4136a0532d32d72d4fcb",
+    "DWSPMC000000000fcb2f4136b2f4136a0532d2f4136a0532"
+  ],
+  "causedBy" : "CARDHOLDER",
+  "reasonCode" : "DEVICE_LOST",
+  "reason" : "LOST_STOLEN_DEVICE"
+}
